@@ -1,0 +1,44 @@
+*{
+    font-family: Montserrat,sans-serif;
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
+
+.navbarNav{
+    display: flex;
+    align-items: flex-end;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 700px;
+}
+
+.image{
+    width: 300px;
+    height: 300px;
+}
+
+#title{
+    text-align: center;
+}
+
+.section1{
+    
+    background-color: #F1F1F1;
+    
+}
+
+.section2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+    background-color: blueviolet
+
+}
