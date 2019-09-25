@@ -11,7 +11,7 @@
     align-items: flex-end;
 }
 
-.container{
+.container1{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,9 +29,10 @@
 }
 
 .section1{
-    
+    display: flex;
+    align-items: center;
     background-color: #F1F1F1;
-    
+    height: 500px;;
 }
 
 .section2{
@@ -39,6 +40,10 @@
     justify-content: center;
     align-items: center;
     padding: 60px;
-    background-color: blueviolet
+    background-color: #CE3F3C;
+}
 
+.card{
+    display: flex;
+    margin: 10px;
 }
